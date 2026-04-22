@@ -20,3 +20,6 @@ Controle de versão do schema do banco, sem perder dados.
 
 # Rotas CRUD com FastAPI
 Endpoints que leem e escrevem no banco de dados usando a sessão do SQL Alchemy.
+
+
+# Para rodar: criar arquivo .env com "DATABASE_URL=postgresql://usuario:senha123@localhost:5433/meubanco"
